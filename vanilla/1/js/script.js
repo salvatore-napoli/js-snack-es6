@@ -1,4 +1,3 @@
-// Snack 1
 var bikeList = [
 	{
 	'name': 'red',
